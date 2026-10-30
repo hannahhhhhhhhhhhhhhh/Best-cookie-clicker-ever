@@ -1,7 +1,6 @@
-# Best-cookie-clicker-ever
-# ClickPad: A 6-Key Cookie Clicker with a Gambling Mode
+# Best-cookie-clicker-ever: cookie Clicker with a Gambling Mode
 
-ClickPad is a small handheld game pad built around the Seeed XIAO RP2040 and a 1.8" 128x160 TFT screen. It runs a cookie clicker game, tap keys to earn clicks, unlock a bonus key at 5,000 clicks, and gamble your clicks on a 50/50 double or nothing roll, good luck :3 It is a custom PCB designed in KiCad
+This is a small handheld game pad built around the Seeed XIAO RP2040 and a 1.8" 128x160 TFT screen. It runs a cookie clicker game, tap keys to earn clicks, unlock a bonus key at 5,000 clicks, and gamble your clicks on a 50/50 double or nothing roll, good luck :3 It is a custom PCB designed in KiCad
 
 <img width="1364" height="1032" alt="image" src="https://github.com/user-attachments/assets/9dafa451-fc2f-4885-bbb7-a0e5f9fd3782" />
 And I wrote hackclub all over it because hackclub is goated 
@@ -117,6 +116,4 @@ Go to **Tools > Board > Raspberry Pi Pico/RP2040 > Seeed XIAO RP2040**.
 After the first upload, you can upload again without the boot button.
 
 ### Troubleshooting
-
-| Problem | Fix |
-| Want to reset your save | Hold SW6 and SW3 together for 3 seconds. |
+If! you want to reset your save: hold SW6 and SW3 together for 3 seconds.
